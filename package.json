@@ -1,0 +1,30 @@
+{
+  "name": "windows-processes",
+  "version": "1.0.0",
+  "description": "Checks if a specific process is running on Windows",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": "https://github.com/felixrieseberg/windows-processes",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/felixrieseberg/windows-processes/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "*"
+  },
+  "author": {
+    "email": "felix@felixrieseberg.com",
+    "name": "Felix Rieseberg",
+    "url": "http://www.felixrieseberg.com"
+  },
+  "keywords": [
+    "windows",
+    "processes"
+  ]
+}
