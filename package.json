@@ -1,17 +1,17 @@
 {
-  "name": "windows-processes",
+  "name": "windows-process-info",
   "version": "1.0.0",
   "description": "Checks if a specific process is running on Windows",
   "main": "lib/index.js",
   "scripts": {
     "test": "node ./test/test.js"
   },
-  "repository": "https://github.com/felixrieseberg/windows-processes",
+  "repository": "https://github.com/felixrieseberg/windows-process-info",
   "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/felixrieseberg/windows-processes/blob/master/LICENSE"
+      "url": "http://github.com/felixrieseberg/windows-process-info/blob/master/LICENSE"
     }
   ],
   "dependencies": {

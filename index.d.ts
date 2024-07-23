@@ -1,3 +1,3 @@
-declare module 'windows-processes' {
+declare module 'windows-process-info' {
   export function isProcessRunning(name: string): boolean;
 }
